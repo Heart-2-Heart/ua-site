@@ -20,7 +20,7 @@
         "display2Size": 3,
         "display5Font": "Jost",
         "display5Size": 2,
-        "display7Font": "Jost",
+        "display7Font": "Ubuntu",
         "display7Size": 1.2,
         "display4Font": "Jost",
         "display4Size": 1.1,
@@ -39,6 +39,11 @@
         "css": "'Jost', sans-serif",
         "name": "Jost",
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Ubuntu', sans-serif",
+        "name": "Ubuntu",
+        "url": "https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i"
       }
     ],
     "imageResize": false,
