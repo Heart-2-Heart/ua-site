@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Heart to Heart",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -48,12 +48,12 @@
     ],
     "imageResize": false,
     "favicon": false,
-    "mbrsiteDomain": "h-to-h",
+    "mbrsiteDomain": "sf8jcvstv5",
     "usedWebp": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://h-to-h.eu",
     "gdpr": false,
     "uniqCompNum": 39,
     "versionPublish": "5.8.2",
@@ -61,7 +61,9 @@
     "mcSmartCart": {
       "currency": "USD"
     },
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
